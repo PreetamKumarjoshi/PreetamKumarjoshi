@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🏆 𝐓𝐨𝐩 𝐑𝐚𝐭𝐞𝐝 Developer | ✅ 7+ Years of Experience | 🥇 100% Job Success Ratio | ⏰ 187+ Hours worked
+🏆 𝐓𝐨𝐩 𝐑𝐚𝐭𝐞𝐝 Developer on upwork | ✅ 7+ Years of Experience | 🥇 100% Job Success Ratio 
 ------------------------
 𝗜 ⚡ 𝗔𝗩𝗔𝗜𝗟𝗔𝗕𝗟𝗘 𝗡𝗢𝗪 𝗜
 ------------------------
