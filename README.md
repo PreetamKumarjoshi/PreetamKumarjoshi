@@ -41,16 +41,27 @@ Hear it from my Upwork clients - their experience collaborating with me:
 HERE'S A RUNDOWN OF MY SKILLS AND EXPERIENCE:
 -----------------------------------------------------------
 🔹Mobile Application:
+
 ◉ Android application development (Native)
+
 ◉ iOS application development (Native)
+
 ◉ RESTful APIs
+
 ◉ Firebase
+
 ◉ Push Notifications
+
 ◉ In-App Purchases
+
 ◉ Google Maps API
+
 ◉ Apple Pay
+
 ◉ Social Media Integration
+
 ◉ Ionic Framework 2
+
 ◉ IOT Application
 
 🔹 Web Development:
