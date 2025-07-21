@@ -40,6 +40,8 @@ Hear it from my Upwork clients - their experience collaborating with me:
 
 HERE'S A RUNDOWN OF MY SKILLS AND EXPERIENCE:
 -----------------------------------------------------------
+
+
 🔹Mobile Application:
 
 ◉ Android application development (Native)
@@ -63,6 +65,8 @@ HERE'S A RUNDOWN OF MY SKILLS AND EXPERIENCE:
 ◉ Ionic Framework 2
 
 ◉ IOT Application
+
+
 
 
 🔹 Web Development:
@@ -92,6 +96,8 @@ Monday.com, LeafLet Map API, Segment.io, Logi analytics AWS Translation, Stripe,
 many other third-party APIs
 
 ◉ File uploading using Uppy, Transloadit, FilePond, and Dropzone
+
+
 
 
 🔹 Strong Additional Skills:
