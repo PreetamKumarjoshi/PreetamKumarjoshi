@@ -38,6 +38,9 @@ Hear it from my Upwork clients - their experience collaborating with me:
 ★★★★★ 5.00
 "Awesome experience and commitment towards the task was amazing!"
 
+★★★★★ 5.00
+"Working with Preetam and his team was a seamless, highly professional experience. They delivered excellent work across the MERN stack with clear communication and timely delivery."
+
 HERE'S A RUNDOWN OF MY SKILLS AND EXPERIENCE:
 -----------------------------------------------------------
 
