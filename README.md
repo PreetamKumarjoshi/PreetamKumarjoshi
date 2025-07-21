@@ -64,26 +64,38 @@ HERE'S A RUNDOWN OF MY SKILLS AND EXPERIENCE:
 
 ◉ IOT Application
 
+
 🔹 Web Development:
+
 ◉ Node.js, ExpressJS, Core PHP, React, REST API, GraphQL, Angular, PDF, and Emberjs
+
 ◉ CMS platforms:
 - Joomla 3, Joomla 4 and Joomla 5
 -Joomla migration from Joomla 3 to Joomla 4, Joomla 3 to Joomla 5, Joomla 4 to Joomla 5.
 - Joomla Component, Plugin, and Module
 - WordPress
 - WordPress Plugin (WooCommerce, Buddypress, etc.)
+
 ◉ Database management using MySQL, Sequelize(ORM), MongoDB, Mongoose(ODM), and MariaDB
+
 ◉ Google Ads (Campaign, Tag), Cloud Storage API, AutoML, Cloud Translation with Glossary, and
 Google Analytics
+
 ◉ HTML, CSS, Bootstrap, Tailwind CSS, Vanilla JS, jQuery/JavaScript
+
 ◉ Data visualization and analytics using Logi composer
+
 ◉ Data automation using APIs
+
 ◉ API integrations from various platforms such as Sendgrid API, Google Translation,
 Monday.com, LeafLet Map API, Segment.io, Logi analytics AWS Translation, Stripe, PayPal, and
 many other third-party APIs
+
 ◉ File uploading using Uppy, Transloadit, FilePond, and Dropzone
 
+
 🔹 Strong Additional Skills:
+
 ◉ Amazon Web Services (EC2, VPC, IAM, ELB, AWS Lambda, S3, Route 53, Amazon CloudFront)
 
 💬 Communication:
