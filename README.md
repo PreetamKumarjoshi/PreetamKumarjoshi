@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## Node | React | MREN | JavaScript | Joomla | Laravel | Ionic | iOS | Android | Flutter
 <!--
 **PreetamKumarjoshi/PreetamKumarjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
